@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_2" d="m44,137.651154l0.991596,13.348846l117.008404,-0.953491c-19.170853,-19.069778 -121.85434,13.674423 -80.369743,-45.627907l-36.63866,-76.418606z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#FF0000"/>
+  <path id="svg_3" d="m50,29.999996l84,0.549618l-2.032257,71.450386l-8.806458,-10.442734l-12.870956,-9.893143l-60.290329,-51.664127z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#000000"/>
+  <polygon stroke-width="5" stroke="#000000" points="113.5,46.69396209716797 120.8941650390625,66.92796325683594 143.4100799560547,67.3644027709961 125.46403503417969,80.30615997314453 131.98545837402344,100.80989837646484 113.5,88.5743408203125 95.01457214355469,100.80989837646484 101.53596496582031,80.30615997314453 83.58992004394531,67.3644027709961 106.1058120727539,66.92796325683594 113.5,46.69396209716797 120.8941650390625,66.92796325683594 " strokeWidth="5" strokecolor="#000000" fill="#ff0000" orient="point" r2="7.322416" r="18.30604" point="5" shape="star" id="svg_6" cy="48" cx="124"/>
+  <text transform="matrix(1.16696, 0, 0, 1.11903, -15.6232, -16.8448)" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_8" y="132.106367" x="111.001491" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">OPR</text>
+ </g>
+</svg>

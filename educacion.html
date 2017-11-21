@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Educacion</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Oscar Ivan Peña Rodriguez">
+    <meta name="description" content="Hoja de Vida Digital">
+    <meta name="viewport" content="width=device-with, user-scalable=no">
+    </head>
+    <body>
+      <header style="background-color:gray; text-align:center">
+        <table width="100%">
+          <tr>
+            <td style="width:20%">
+              <svg>
+                <image id="imgLogo" xlink:href="images/logo.svg" width="700px" height="500px"
+              </svg></td>
+            <td>    <h1>Hoja de vida Digital
+                </h1></td>
+          </tr>
+        </table>
+      </header>
+  <section style="witdh:100%">
+    <h2 style="witdh:100%; text-align:center" id="inicioDatosPersonales">
+      Datos Personales
+    </h2>
+    <ul style="witdh:100%" >
+     <li>
+        <h4>
+      Nombre(s): Oscar Iván
+        </h4>
+    </li>
+    <li>
+      <h4>
+    Apellidos: Peña Rodriguez
+      </h4>
+    </li>
+    <li>
+    <h4>
+    Cedula:1024503651
+  </h4>
+  </li>
+  <li>
+    <h4>
+      Direccion: cll 57 g #14-21
+    </h4>
+  </li>
+  </ul>
+  <nav>
+    <a href="index.html">Inicio</a> |
+    <a href="educacion.html">Educacion</a> |
+    <a href="experiencia.html">Experiencia</a> |
+  </nav>
+  <h2>Educacion</h2>
+  <table border="1" style="text-align:center">
+    <tr>
+      <th>Año</th>
+      <th>Institucion</th>
+      <th>Lugar</th>
+      <th>¿Culmino?</th>
+
+    </tr>
+    <tr>
+<td>2013</td>
+<td>Piloto de Colombia</td>
+<td>Bogota</td>
+<td>Si</td>
+    </tr>
+    <tr>
+      <td>2007</td>
+      <td>Instituto Britanico</td>
+      <td>Bogota</td>
+      <td>Si</td>
+    </tr>
+    <tr>
+      <td>2007</td>
+      <td>Informatica</td>
+      <td>Bogota</td>
+      <td>Si</td>
+    </tr>
+  </table>
+<form method="post">
+  <h2>Nuevo Estudio</h2>
+  <fieldset>
+    <legend>Agregar Estudio</legend>
+    <label id="lblAnio" for="selAnio">Año</label>
+    <select id="selAnio" name="años">
+       <option value="2017">2017</option>
+       <option value="2016">2016</option>
+       <option value="2015">2015</option>
+       <option value="2014">2014</option>
+       <option value="2013">2013</option>
+       <option value="2012">2012</option>
+    </select>
+  </br>
+    <label id="lblInstitucion" for="txtInstitucion">Institucion</label>
+    <input id="txtInstitucion" type="text" placeholder="Institucion" name="txtInstitucion" value="" required></br>
+    <label id="lblLugar" for="txtLugar">Lugar</label>
+  <textarea placeholder="lugar" rows="2" cols="20">
+  </textarea></br>
+  <label id="lblCulmino" for="txtCulmino">¿Culmino?</label>
+<label><input type="radio" id="cboxSi" value="si">Si</label>
+<label><input type="radio" id="cboxNo" value="no">No</label><br>
+</br>
+<input id="btnEnviar" type="submit" name="btnEnviar" value="enviar">
+</fieldset>
+</form>
+<footer style="background-color:gray">
+  <table style="height:100px">
+    <tr>
+      <td>EMAIL: OSCAR@RMASC.</td>
+      <td>CEL: 3003882096;</td>
+      <td>DIRECCION: CLL 57 g #14-21</td>
+    </tr>
+  </table>
+</footer>
+</body>
+</html>
